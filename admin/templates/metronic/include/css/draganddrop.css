@@ -1,0 +1,71 @@
+#dragandrophandler, #dragandrophandler_editar {
+	color:#333;
+	text-align:center;
+	vertical-align:middle;
+	padding:20px;
+	margin-bottom:10px;
+	font-size:200%;
+	margin-left:10px;
+}
+
+.progressBar {
+    width: 200px;
+    height: 26px;
+    border: 1px solid #ddd;
+    overflow: hidden;
+    display:inline-block;
+    margin:0px 10px 5px 5px;
+    vertical-align:top;
+}
+ 
+.progressBar div {
+    height: 100%;
+    color: #fff;
+    text-align: right;
+    line-height: 24px; /* same as #progressBar height if we want text middle aligned */
+    width: 0;
+    background-color: #0ba1b5; 
+}
+
+.statusbar {
+    margin-left:10px;
+    min-height:25px;
+    width:100%;
+    padding:10px 10px 0px 10px;
+    vertical-align:top;
+	margin-bottom:20px;
+}
+
+.statusbar:nth-child(odd){
+    background:transparent;
+}
+
+.filename {
+	display:inline-block;
+	vertical-align:top;
+	width:250px;
+}
+
+.filesize {
+	display:inline-block;
+	vertical-align:top;
+	color:#30693D;
+	width:100px;
+	margin-left:10px;
+	margin-right:5px;
+}
+
+.abort {
+    background-color:#A8352F;
+	padding-top:4px;
+	padding-bottom:4px;
+	width:80px;
+	text-align:center;
+	vertical-align:middle;
+    display:inline-block;
+    color:#fff;
+    font-family:arial;
+	font-size:13px;
+	font-weight:normal;
+    cursor:pointer;
+}

@@ -1,0 +1,394 @@
+.white-back {
+  background-color: #ffffff !important; }
+
+.default-back {
+  background-color: #e1e5ec !important; }
+
+.dark-back {
+  background-color: #2f353b !important; }
+
+.blue-intense-back {
+  background-color: #1ddce8 !important; }
+
+.blue-intense-soft-back {
+  background-color: #05b7c2 !important; }
+
+.blue-back {
+  background-color: #3598dc !important; }
+
+.blue-madison-back {
+  background-color: #578ebe !important; }
+
+.blue-chambray-back {
+  background-color: #2C3E50 !important; }
+
+.blue-ebonyclay-back {
+  background-color: #22313F !important; }
+
+.blue-hoki-back {
+  background-color: #67809F !important; }
+
+.blue-steel-back {
+  background-color: #4B77BE !important; }
+
+.blue-soft-back {
+  background-color: #4c87b9 !important; }
+
+.blue-dark-back {
+  background-color: #5e738b !important; }
+
+.blue-sharp-back {
+  background-color: #5C9BD1 !important; }
+
+.blue-oleo-back {
+  background-color: #94A0B2 !important; }
+
+.green-back {
+  background-color: #32c5d2 !important; }
+
+.green-meadow-back {
+  background-color: #1BBC9B !important; }
+
+.green-seagreen-back {
+  background-color: #1BA39C !important; }
+
+.green-turquoise-back {
+  background-color: #36D7B7 !important; }
+
+.green-haze-back {
+  background-color: #44b6ae !important; }
+
+.green-jungle-back {
+  background-color: #26C281 !important; }
+
+.green-soft-back {
+  background-color: #3faba4 !important; }
+
+.green-dark-back {
+  background-color: #4DB3A2 !important; }
+
+.green-sharp-back {
+  background-color: #2ab4c0 !important; }
+
+.green-steel-back {
+  background-color: #29b4b6 !important; }
+
+.green-grass-soft-back {
+  background-color: #599e00 !important; }
+
+.green-grass-intense-back {
+  background-color: #80d70e !important; }
+
+.grey-back {
+  background-color: #E5E5E5 !important; }
+
+.grey-steel-back {
+  background-color: #e9edef !important; }
+
+.grey-cararra-back {
+  background-color: #fafafa !important; }
+
+.grey-gallery-back {
+  background-color: #555555 !important; }
+
+.grey-cascade-back {
+  background-color: #95A5A6 !important; }
+
+.grey-silver-back {
+  background-color: #BFBFBF !important; }
+
+.grey-salsa-back {
+  background-color: #ACB5C3 !important; }
+
+.grey-salt-back {
+  background-color: #bfcad1 !important; }
+
+.grey-mint-back {
+  background-color: #525e64 !important; }
+
+.grey-intense-back {
+  background-color: #6d6d6d !important; }
+
+.orange-soft-back {
+  background-color: #ea8f00 !important; }
+
+.orange-intense-back {
+  background-color: #ffcd7f !important; }
+
+.red-back {
+  background-color: #e7505a !important; }
+
+.red-pink-back {
+  background-color: #E08283 !important; }
+
+.red-sunglo-back {
+  background-color: #E26A6A !important; }
+
+.red-intense-back {
+  background-color: #e35b5a !important; }
+
+.red-thunderbird-back {
+  background-color: #D91E18 !important; }
+
+.red-flamingo-back {
+  background-color: #EF4836 !important; }
+
+.red-soft-back {
+  background-color: #d05454 !important; }
+
+.red-haze-back {
+  background-color: #f36a5a !important; }
+
+.red-mint-back {
+  background-color: #e43a45 !important; }
+
+.yellow-back {
+  background-color: #c49f47 !important; }
+
+.yellow-gold-back {
+  background-color: #E87E04 !important; }
+
+.yellow-casablanca-back {
+  background-color: #f2784b !important; }
+
+.yellow-crusta-back {
+  background-color: #f3c200 !important; }
+
+.yellow-lemon-back {
+  background-color: #F7CA18 !important; }
+
+.yellow-intense-back {
+  background-color: #f8ea07 !important; }
+
+.yellow-saffron-back {
+  background-color: #F4D03F !important; }
+
+.yellow-soft-back {
+  background-color: #c8d046 !important; }
+
+.yellow-haze-back {
+  background-color: #c5bf66 !important; }
+
+.yellow-mint-back {
+  background-color: #c5b96b !important; }
+
+.purple-back {
+  background-color: #8E44AD !important; }
+
+.purple-plum-back {
+  background-color: #8775a7 !important; }
+
+.purple-medium-back {
+  background-color: #BF55EC !important; }
+
+.purple-studio-back {
+  background-color: #8E44AD !important; }
+
+.purple-wisteria-back {
+  background-color: #9B59B6 !important; }
+
+.purple-seance-back {
+  background-color: #9A12B3 !important; }
+
+.purple-intense-back {
+  background-color: #8775a7 !important; }
+
+.purple-sharp-back {
+  background-color: #796799 !important; }
+
+.purple-soft-back {
+  background-color: #8877a9 !important; }
+
+.pink-intense-back {
+  background-color: #ff009c !important; }
+
+.pink-soft-back {
+  background-color: #f85abb !important; }
+  
+/* COLOR */
+
+.white-color {
+  color: #ffffff !important; }
+
+.default-color {
+  color: #e1e5ec !important; }
+
+.dark-color {
+  color: #2f353b !important; }
+
+.blue-color {
+  color: #3598dc !important; }
+
+.blue-color {
+  color: #3598dc !important; }
+
+.blue-madison-color {
+  color: #578ebe !important; }
+
+.blue-chambray-color {
+  color: #2C3E50 !important; }
+
+.blue-ebonyclay-color {
+  color: #22313F !important; }
+
+.blue-hoki-color {
+  color: #67809F !important; }
+
+.blue-steel-color {
+  color: #4B77BE !important; }
+
+.blue-soft-color {
+  color: #4c87b9 !important; }
+
+.blue-dark-color {
+  color: #5e738b !important; }
+
+.blue-sharp-color {
+  color: #5C9BD1 !important; }
+
+.blue-oleo-color {
+  color: #94A0B2 !important; }
+
+.green-color {
+  color: #32c5d2 !important; }
+
+.green-meadow-color {
+  color: #1BBC9B !important; }
+
+.green-seagreen-color {
+  color: #1BA39C !important; }
+
+.green-turquoise-color {
+  color: #36D7B7 !important; }
+
+.green-haze-color {
+  color: #44b6ae !important; }
+
+.green-jungle-color {
+  color: #26C281 !important; }
+
+.green-soft-color {
+  color: #3faba4 !important; }
+
+.green-dark-color {
+  color: #4DB3A2 !important; }
+
+.green-sharp-color {
+  color: #2ab4c0 !important; }
+
+.green-steel-color {
+  color: #29b4b6 !important; }
+
+.grey-color {
+  color: #E5E5E5 !important; }
+
+.grey-steel-color {
+  color: #e9edef !important; }
+
+.grey-cararra-color {
+  color: #fafafa !important; }
+
+.grey-gallery-color {
+  color: #555555 !important; }
+
+.grey-cascade-color {
+  color: #95A5A6 !important; }
+
+.grey-silver-color {
+  color: #BFBFBF !important; }
+
+.grey-salsa-color {
+  color: #ACB5C3 !important; }
+
+.grey-salt-color {
+  color: #bfcad1 !important; }
+
+.grey-mint-color {
+  color: #525e64 !important; }
+
+.red-color {
+  color: #e7505a !important; }
+
+.red-pink-color {
+  color: #E08283 !important; }
+
+.red-sunglo-color {
+  color: #E26A6A !important; }
+
+.red-intense-color {
+  color: #e35b5a !important; }
+
+.red-thunderbird-color {
+  color: #D91E18 !important; }
+
+.red-flamingo-color {
+  color: #EF4836 !important; }
+
+.red-soft-color {
+  color: #d05454 !important; }
+
+.red-haze-color {
+  color: #f36a5a !important; }
+
+.red-mint-color {
+  color: #e43a45 !important; }
+
+.yellow-color {
+  color: #c49f47 !important; }
+
+.yellow-gold-color {
+  color: #E87E04 !important; }
+
+.yellow-casablanca-color {
+  color: #f2784b !important; }
+
+.yellow-crusta-color {
+  color: #f3c200 !important; }
+
+.yellow-lemon-color {
+  color: #F7CA18 !important; }
+
+.yellow-saffron-color {
+  color: #F4D03F !important; }
+
+.yellow-soft-color {
+  color: #c8d046 !important; }
+
+.yellow-haze-color {
+  color: #c5bf66 !important; }
+
+.yellow-mint-color {
+  color: #c5b96b !important; }
+
+.purple-color {
+  color: #8E44AD !important; }
+
+.purple-plum-color {
+  color: #8775a7 !important; }
+
+.purple-medium-color {
+  color: #BF55EC !important; }
+
+.purple-studio-color {
+  color: #8E44AD !important; }
+
+.purple-wisteria-color {
+  color: #9B59B6 !important; }
+
+.purple-seance-color {
+  color: #9A12B3 !important; }
+
+.purple-intense-color {
+  color: #8775a7 !important; }
+
+.purple-sharp-color {
+  color: #796799 !important; }
+
+.purple-soft-color {
+  color: #8877a9 !important; }
+
+.pink-intense-color {
+  color: #ff009c !important; }
+
+.pink-soft-color {
+  color: #f85abb !important; }

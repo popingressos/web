@@ -1,0 +1,1 @@
+<script>window.open('https://<?=$_SERVER["SERVER_NAME"]?>/admin/','_parent','');</script>

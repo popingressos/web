@@ -1,0 +1,135 @@
+/********************************* GALERIA *************************************************/
+.page-galeria-sidebar-wrapper {
+  background: #eeeeee;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar {
+  background: #eeeeee;
+}
+
+/*** 
+galeria Sidebar Toggler 
+***/
+.page-galeria-sidebar-toggler {
+  background: #525252;
+}
+.page-galeria-sidebar-toggler:hover {
+  background: #4a4a4a;
+}
+.page-galeria-sidebar-toggler > i {
+  color: #a2a2a2;
+}
+
+/***
+galeria Sidebar Content
+***/
+.page-galeria-sidebar-wrapper {
+  color: #a2a2a2;
+  /* galeria sidebar chat */
+  /* galeria sidebar alerts */
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar {
+  /* galeria sidebar tabs */
+  /* galeria sidebar general list heading */
+  /* galeria sidebar general list-items */
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li > a {
+  color: #9a9a9a;
+  background: #525252;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li > a:hover {
+  background: #454545;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li.open > a {
+  color: #9a9a9a;
+  background: #525252;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li.active > a {
+  border: 0;
+  background: #393939;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li .dropdown-menu {
+  border: 0;
+  background: #525252;
+  box-shadow: 5px 5px rgba(133, 133, 133, 0.1);
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li .dropdown-menu:before {
+  border-bottom: 7px solid #525252;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li .dropdown-menu:after {
+  border-bottom: 7px solid #525252;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li .dropdown-menu > li > a {
+  color: #a2a2a2;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li .dropdown-menu > li > a > i {
+  color: #9c9c9c;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li .dropdown-menu > li > a:hover {
+  background: #5a5a5a;
+  color: #a2a2a2;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li .dropdown-menu > li > a:hover > i {
+  color: #a4a4a4;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li .dropdown-menu > li.active > a {
+  background: #555555;
+  color: #a2a2a2;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .nav-justified > li .dropdown-menu > li.divider {
+  background-color: #5a5a5a;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .list-heading {
+  color: #7b7b7b;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .list-items {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .list-items > li {
+  border-bottom-color: #404040;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar .list-items > li:hover {
+  background: #404040;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-item {
+  /* back to list */
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-item .page-galeria-sidebar-nav .page-galeria-sidebar-back-to-list {
+  color: #9a9a9a;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-chat .page-galeria-sidebar-chat-users .media-list .media .media-body .media-heading-sub {
+  color: #747474;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-chat .page-galeria-sidebar-chat-users .media-list .media .media-body .media-heading-small {
+  color: dimgray;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-chat .page-galeria-sidebar-chat-user .page-galeria-sidebar-chat-user-messages .post .name {
+  color: #909090;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-chat .page-galeria-sidebar-chat-user .page-galeria-sidebar-chat-user-messages .post .datetime {
+  color: #909090;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-chat .page-galeria-sidebar-chat-user .page-galeria-sidebar-chat-user-messages .post .message {
+  color: #9a9a9a;
+  background: #525252;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-chat .page-galeria-sidebar-chat-user .page-galeria-sidebar-chat-user-messages .post.in .message .arrow {
+  border-right-color: #525252;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-chat .page-galeria-sidebar-chat-user .page-galeria-sidebar-chat-user-messages .post.out .message .arrow {
+  border-left-color: #525252;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-alerts .page-galeria-sidebar-alerts-list .feeds li a {
+  color: #8b8b8b;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-alerts .page-galeria-sidebar-alerts-list .feeds li a .desc {
+  text-decoration: underline;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-alerts .page-galeria-sidebar-alerts-list .feeds li .desc {
+  color: #858585;
+}
+.page-galeria-sidebar-wrapper .page-galeria-sidebar-alerts .page-galeria-sidebar-alerts-list .feeds li .date {
+  color: dimgray;
+}
+/********************************* FIM GALERIA SIDEBAR *************************************************/

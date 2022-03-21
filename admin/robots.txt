@@ -1,0 +1,9 @@
+User-agent: *
+Disallow: /
+Disallow: /files/
+Disallow: /include/
+Disallow: /templates/
+
+Disallow: /files
+Disallow: /include
+Disallow: /templates
